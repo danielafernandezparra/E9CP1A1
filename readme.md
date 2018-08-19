@@ -16,7 +16,7 @@
 class Anything
   def foo
     a = 5
-  end
+  end 
 
   def bar
     @a += 1
